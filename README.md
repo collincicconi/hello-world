@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+I am Collin, an Actuarial Statistics Major.
+My favorite food are turkey sandwiches.
